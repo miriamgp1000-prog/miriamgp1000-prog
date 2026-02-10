@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Miriam! 👋 🏥 ➡️ 📊
 
-<!--
-**miriamgp1000-prog/miriamgp1000-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### From Nurse to Data Analyst
+I am a **Registered Nurse** transitioning into the world of **Data Analytics**. I’m passionate about bridging the gap between clinical expertise and data-driven healthcare solutions.
 
-Here are some ideas to get you started:
+- 🩺 **Background:** Registered Nurse (Clinical Care & Patient Advocacy)
+- 📈 **Current Focus:** SQL, Excel, Python and PowerBI
+- 🎓 **Mentorship:** Proud mentee at **Women in Big Data**
+- 🎯 **Goal:** Improving patient outcomes through evidence-based analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack
+- **Data Tools:** Excel (Intermediate), SQL (Learning)
+- **Workflow:** Git, GitHub, Markdown
+- **Domain:** Clinical Documentation, Data Hygiene, Healthcare Operations
+
+---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/miriam-gonzalez-a8793a381) | [Email](mailto:miriam.gp1000@gmail.com)
