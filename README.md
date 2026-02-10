@@ -9,9 +9,9 @@ I am a **Registered Nurse** transitioning into the world of **Data Analytics**. 
 - 🎯 **Goal:** Improving patient outcomes through evidence-based analysis
 
 ### My Tech Stack
-- **Data Tools:** Excel (Intermediate), SQL (Learning)
-- **Workflow:** Git, GitHub, Markdown
-- **Domain:** Clinical Documentation, Data Hygiene, Healthcare Operations
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ---
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/miriam-gonzalez-a8793a381) | [Email](mailto:miriam.gp1000@gmail.com)
