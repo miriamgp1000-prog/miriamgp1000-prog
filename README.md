@@ -1,33 +1,72 @@
-# Hi, I'm Miriam! 👋 🏥 ➡️ 📊
+# 👋 Hi, I'm Miriam González
 
-### From Nurse to Data Analyst
-I am a **Registered Nurse** transitioning into **Data Analytics**. I am currently focused on building a strong technical foundation to transform healthcare data into meaningful insights.
+🏥 **Registered Nurse** → 📊 **Data Analyst (in transition)**
 
----
-
-### 📚 My Learning Path
-I am starting from the ground up, focusing on a structured approach to data:
-- **Fundamentals First:** I've mastered the core concepts of the data lifecycle, the 5-step analysis process, and the different types of analytics (Descriptive, Diagnostic, Predictive, and Prescriptive).
-- **Data-Driven Mindset:** Learning to move beyond intuition to make decisions based on empirical evidence and patterns.
-
-### 🛠️ Technical Toolkit (In Progress)
-**Current Learning**
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-**Future Focus**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+I bridge clinical experience with data analytics to improve healthcare outcomes. Based in Norway 🇳🇴, originally from Spain 🇪🇸.
 
 ---
 
-### 📈 Current Status
-- 🎓 **Mentorship:** Proud mentee at **Women in Big Data**, building a roadmap for a career pivot.
-- 🧪 **Practice:** Developing my first projects using open-source healthcare datasets.
-- 🎯 **Goal:** Bridging my clinical experience with data science to support evidence-based healthcare.
+## 📌 Featured Project
+
+### 🏥 [Healthcare Analytics with Google Sheets](https://github.com/TU_USUARIO/healthcare-analytics-sheets)
+
+Analysis of **45,000+ hospital admissions** including:
+- 📈 **Monthly revenue trends** (2020–2025)
+- 🏆 **Top diagnoses** by frequency (Stroke, Sepsis, COPD)
+- ⏱️ **Average Length of Stay (LOS)** for most frequent conditions
+- 🧹 **Data cleaning**: detected and corrected errors in `patient_payable_amount`
+
+**Tools:** Google Sheets, Pivot Tables, VLOOKUP, AVERAGEIF, FILTER, Data Validation
 
 ---
 
-### 📫 Let's Connect!
-**[LinkedIn](https://linkedin.com/in/miriam-gonzalez-a8793a381) | [Email](mailto:miriam.gp1000@gmail.com)**
+## 🛠️ Technical Toolkit
+
+| Category | Tools | Level |
+|----------|-------|-------|
+| **Spreadsheets** | Google Sheets / Excel | 🟡 Intermediate |
+| **Databases** | SQL | 🟡 Learning |
+| **Version Control** | Git / GitHub | 🟢 Competent |
+| **Documentation** | Markdown | 🟢 Competent |
+| **Data Visualization** | Sheets Charts | 🟡 Learning |
+
+**Coming soon:** Python, Power BI
+
+---
+
+## 📚 My Learning Journey
+
+I believe in building on **solid foundations**. Before diving deep into tools, I focused on understanding the core principles of data analytics:
+
+### 🧠 Fundamentals First
+- **Data Lifecycle** (Generation → Storage → Processing → Analysis → Destruction)
+- **5-Step Analysis Process**: Define → Collect → Clean → Analyze → Share
+- **4 Types of Analytics**:
+  - **Descriptive**: What happened?
+  - **Diagnostic**: Why?
+  - **Predictive**: What next?
+  - **Prescriptive**: How to optimize?
+
+### 📖 Resources I've Used
+- **SQL Practice:** [SQLBolt](https://sqlbolt.com/)
+- **Excel:** Intermediate course by [El Tío Tech](https://www.youtube.com/@ElTioTech)
+- **Git/GitHub:** [hello-git-mouredev](https://github.com/braismoure/hello-git-mouredev)
+- **Markdown:** [Markdown Guide](https://www.markdownguide.org/)
+
+---
+
+## 🎯 Mentorship
+
+Proud mentee at **Women in Big Data** – building a structured roadmap for my healthcare data career with guidance from an experienced mentor.
+
+---
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miriam-gonzalez-a8793a381)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miriam.gp1000@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+
+---
+
+*"The goal is to turn data into information, and information into insight." – Carly Fiorina*
