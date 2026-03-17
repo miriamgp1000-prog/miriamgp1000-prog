@@ -20,6 +20,18 @@ Analysis of **45,000+ hospital admissions** including:
 
 ---
 
+### 💾 [SQL Healthcare Learning Journey](https://github.com/TU_USUARIO/sql-healthcare-learning)
+
+Exploring **2.3 million synthetic patients** using Google BigQuery:
+- 🔍 **Top diagnoses** by frequency (Type 2 diabetes, atrial fibrillation, chest pain)
+- 📊 **Age distribution analysis** for chronic conditions
+- ⏱️ **Length of stay analysis** using CTEs and subqueries
+- 📁 **Organized SQL portfolio** with commented queries
+
+**Tools:** Google BigQuery, SQL (CTEs, JOINs, subqueries, window functions), AI (DeepSeek)
+
+---
+
 ## 🛠️ Technical Toolkit
 
 | Category | Tools | Level |
