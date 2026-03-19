@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍⚕️ PROFESSIONAL SUMMARY
-Bilingual Registered Nurse (Spanish/English/Norwegian) transitioning into **Healthcare Data Analytics** with 8+ years of clinical experience in high-acuity environments across Spain and Norway. Recently completed a self-directed analytics project analyzing **45,000+ hospital admissions** using **Power BI, SQL, and Google Sheets**—demonstrating ability to clean, analyze, and visualize complex healthcare data. Combines deep clinical process knowledge with technical proficiency to deliver actionable insights for improved patient outcomes and operational efficiency.
+Multilingual Registered Nurse (Spanish/English/Norwegian) transitioning into **Healthcare Data Analytics** with 8+ years of clinical experience in high-acuity environments across Spain and Norway. Recently completed a self-directed analytics project analyzing **45,000+ hospital admissions** using **Power BI, SQL, and Google Sheets**—demonstrating ability to clean, analyze, and visualize complex healthcare data. Combines deep clinical process knowledge with technical proficiency to deliver actionable insights for improved patient outcomes and operational efficiency.
 
 ---
 
@@ -23,23 +23,17 @@ Bilingual Registered Nurse (Spanish/English/Norwegian) transitioning into **Heal
 
 ---
 
-## 📊 FEATURED PROJECT
+## 📊 FEATURED PROJECT (IN PROGRESS)
 
 ### Healthcare Admissions Dashboard | Power BI & SQL
-*Analyzed 45,000+ hospital admissions to identify trends in patient volume, length of stay, and diagnosis patterns*
+*Analyzing 45,000+ hospital admissions to identify trends in patient volume, length of stay, and diagnosis patterns*
 
-- Built a **star schema data model** connecting admissions, patients, diagnoses, and employee tables
-- Created **DAX measures** for Total Admissions, Unique Patients, and Average Length of Stay
-- Designed interactive dashboard with:
-  - **KPI cards** showing real-time admission counts
-  - **Top 10 diagnoses** visualization filtered by gender
-  - **Admissions trend line** over 2020-2025 period
-  - **Dynamic filtering** by year and admission type
-- Published complete project documentation on GitHub with methodology and insights
+- Building a **star schema data model** connecting admissions, patients, diagnoses, and employee tables
+- Creating **DAX measures** for Total Admissions, Unique Patients, and Average Length of Stay
+- Designing interactive dashboard with KPI cards, top diagnoses visualization, and admissions trend line
+- Tools: Power BI, DAX, SQL, Google Sheets
 
-*Tools: Power BI, DAX, SQL, Google Sheets*
-
-🔗 [View Project on GitHub](https://github.com/yourusername/healthcare-analytics-powerbi)
+*Expected completion: April 2026*
 
 ---
 
