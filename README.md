@@ -50,7 +50,7 @@ Interactive dashboard analyzing **diabetes cases** with:
 |----------|-------|-------|
 | **Spreadsheets** | Google Sheets / Excel | 🟡 Intermediate |
 | **Databases** | SQL (BigQuery, PostgreSQL) | 🟡 Intermediate |
-| **Data Visualization** | Power BI | 🟡 Learning |
+| **Data Visualization** | Power BI | 🟡 Intermediate |
 | **Version Control** | Git / GitHub | 🟢 Competent |
 | **Documentation** | Markdown | 🟢 Competent |
 
