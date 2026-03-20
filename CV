@@ -2,12 +2,12 @@
 **Healthcare Data Analyst** (In Transition) | Registered Nurse (8+ Years)
 📍 Bergen, Norway | 📞 +47 930 94 934 | ✉️ Miriam.gp1000@gmail.com
 🔗 [linkedin.com/in/miriam-gonzalez-a8793a381](https://linkedin.com/in/miriam-gonzalez-a8793a381)
-💻 [github.com/miriam-gp](https://github.com/miriam-gp) 
+💻 [github.com/miriam-gp](https://github.com/miriam-gp)
 
 ---
 
 ## 👩‍⚕️ PROFESSIONAL SUMMARY
-Multilingual Registered Nurse (Spanish/English/Norwegian) transitioning into **Healthcare Data Analytics** with 8+ years of clinical experience in high-acuity environments across Spain and Norway. Recently completed a self-directed analytics project analyzing **45,000+ hospital admissions** using **Power BI, SQL, and Google Sheets**—demonstrating ability to clean, analyze, and visualize complex healthcare data. Combines deep clinical process knowledge with technical proficiency to deliver actionable insights for improved patient outcomes and operational efficiency.
+Multilingual Registered Nurse (Spanish, English, Norwegian) transitioning into **Healthcare Data Analytics** with 8+ years of clinical experience in high-acuity environments across Spain and Norway. Completed three portfolio projects analyzing hospital admissions using **Power BI, SQL, and Google Sheets**—demonstrating ability to clean, analyze, and visualize complex healthcare data. Combines deep clinical process knowledge with technical proficiency to deliver actionable insights for improved patient outcomes and operational efficiency.
 
 ---
 
@@ -15,25 +15,30 @@ Multilingual Registered Nurse (Spanish/English/Norwegian) transitioning into **H
 
 | Category | Tools & Proficiency |
 |----------|---------------------|
-| **Data Visualization** | Power BI (DAX, Measures, Dashboards), Tableau (Learning) |
-| **Data Analysis** | Excel (Pivot Tables, VLOOKUP, Power Query), Google Sheets |
+| **Data Visualization** | Power BI (DAX, Measures, Dashboards) |
+| **Data Analysis** | Excel, Google Sheets (Pivot Tables, VLOOKUP, Power Query) |
 | **Query Languages** | SQL (PostgreSQL, MySQL, BigQuery) |
 | **Version Control** | Git, GitHub |
 | **Languages** | Spanish (Native), English (Fluent), Norwegian (Professional Working) |
 
 ---
 
-## 📊 FEATURED PROJECT (IN PROGRESS)
+## 📊 FEATURED PROJECTS
 
-### Healthcare Admissions Dashboard | Power BI & SQL
-*Analyzing 45,000+ hospital admissions to identify trends in patient volume, length of stay, and diagnosis patterns*
+### 📊 [Power BI Healthcare Dashboard](https://github.com/miriam-gp/powerbi-healthcare-dashboard)
+- Analyzed **diabetes cases** across age groups (0-30, 30-50, 50-70, 70+)
+- Created DAX measures for total cost ($83.5M) and average cost per case ($38K)
+- Built interactive dashboard showing gender distribution and cost analysis
 
-- Building a **star schema data model** connecting admissions, patients, diagnoses, and employee tables
-- Creating **DAX measures** for Total Admissions, Unique Patients, and Average Length of Stay
-- Designing interactive dashboard with KPI cards, top diagnoses visualization, and admissions trend line
-- Tools: Power BI, DAX, SQL, Google Sheets
+### 🏥 [Healthcare Analytics with Google Sheets](https://github.com/miriam-gp/healthcare-analytics-with-sheets)
+- Analyzed **45,000+ hospital admissions** from Kaggle dataset
+- Cleaned data, corrected errors in `patient_payable_amount`
+- Built pivot tables for monthly revenue trends and top diagnoses
 
-*Expected completion: April 2026*
+### 💾 [SQL Healthcare Learning Journey](https://github.com/miriam-gp/sql-healthcare-analytics)
+- Explored **2.3 million synthetic patients** using Google BigQuery
+- Wrote queries for top diagnoses, age distribution, and length of stay
+- Practiced CTEs, subqueries, and window functions
 
 ---
 
@@ -41,12 +46,11 @@ Multilingual Registered Nurse (Spanish/English/Norwegian) transitioning into **H
 
 **Mentee | Women in Big Data (WiBD)** | 2026 – Present
 - Selected for competitive 1:1 mentorship program focused on healthcare data analytics career development
-- Building structured learning roadmap with senior industry mentor
 
 **Self-Directed Learning** | 2025 – Present
-- Completed Google Data Analytics Professional Certificate (Excel, SQL, R, Tableau)
+- Google Data Analytics Professional Certificate (Excel, SQL, R, Tableau)
 - Daily SQL practice on SQLBolt and BigQuery public datasets
-- Building portfolio of healthcare analytics projects
+- Three completed portfolio projects using real healthcare data
 
 ---
 
@@ -54,48 +58,30 @@ Multilingual Registered Nurse (Spanish/English/Norwegian) transitioning into **H
 
 **Registered Nurse** | Various Hospitals & Clinics | Spain & Norway | 2018 – Present
 
-*Clinical Data Interpretation (High-Acuity Settings)*
-- Analyzed and interpreted **complex diagnostic data** (labs, vitals, imaging) in real-time for 6-10 patients daily, adjusting care plans to prevent adverse outcomes
-- Documented and tracked **patient progress metrics** across multiple shifts, identifying trends requiring intervention
-
-*Process Optimization & Workflow Analysis*
-- Managed critical care pathways requiring **efficient resource allocation** and **time-series analysis** of patient status
-- Identified inefficiencies in shift handoff documentation, proposing streamlined template adopted by unit
-
-*Cross-Functional Communication*
-- Translated complex clinical findings into understandable health plans for patients and multidisciplinary teams
-- Collaborated with physicians, specialists, and administrators to ensure coordinated care delivery
+- Analyzed and interpreted complex diagnostic data for 6-10 patients daily
+- Managed critical care pathways requiring efficient resource allocation
+- Collaborated with physicians, specialists, and administrators for coordinated care delivery
 
 ---
 
-## 🎓 EDUCATION & CERTIFICATIONS
+## 🎓 EDUCATION
 
 | Credential | Institution | Year |
 |------------|-------------|------|
-| **Årsstudium i e-helse og velferdsteknologi** (One‑year Studies in eHealth and Welfare Technology) | Høgskolen på Vestlandet (HVL), Norway | 2024 – 2025 |
-| **Google Data Analytics Professional Certificate** | Google / Coursera | In Progress (2026) |
+| **Årsstudium i e-helse og velferdsteknologi** (eHealth and Welfare Technology) | Høgskolen på Vestlandet (HVL), Norway | 2024 – 2025 |
+| **Google Data Analytics Professional Certificate** | Google / Coursera | In Progress |
 | **Bachelor of Science in Nursing (BSN)** | University of Málaga, Spain | 2014 – 2018 |
 | **Norwegian Nursing Authorization** | Norwegian Directorate of Health | 2022 |
 
-## 📚 ADDITIONAL ACADEMIC BACKGROUND
-
-**Master's Coursework in Equality and Gender Studies**  
-*Universidad Complutense de Madrid, Spain | 2019 – 2020*  
-Completed advanced coursework in gender perspectives in public health, social inequality, and qualitative research methods. 
-Developed critical analytical skills applicable to health data interpretation and inclusive policy analysis.
----
-
-## 📈 KEY ACHIEVEMENTS
-- ✅ Successfully transitioned nursing career **across two countries** (Spain → Norway), demonstrating adaptability and cultural competence
-- ✅ Self-taught **SQL, Power BI, and data modeling** while working full-time as a nurse
-- ✅ Built **production-ready healthcare dashboard** analyzing 45,000+ admissions
-- ✅ Bilingual professional proficient in **Spanish, English, and Norwegian**
+**Additional Coursework:** Master's Studies in Equality and Gender Studies, Universidad Complutense de Madrid (2019–2020)
 
 ---
 
 ## 📬 LET'S CONNECT
+
 I'm actively seeking **Healthcare Data Analyst** or **Clinical Data Analyst** roles in Norway, Spain, or remote positions across Europe.
 
 📧 miriam.gp1000@gmail.com
 📞 +47 930 94 934
 🔗 [LinkedIn](https://linkedin.com/in/miriam-gonzalez-a8793a381)
+💻 [GitHub](https://github.com/miriam-gp)
