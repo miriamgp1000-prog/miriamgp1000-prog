@@ -32,7 +32,7 @@ Exploring **2.3 million synthetic patients** using Google BigQuery:
 
 ---
 
-### 📊 [Power BI Healthcare Dashboard](https://github.com/miriam-gp/powerbi-healthcare-dashboard)
+### 📊 [Power BI Healthcare Dashboard – Diabetes Analysis](https://github.com/miriam-gp/powerbi-healthcare-dashboard)
 
 Interactive dashboard analyzing **diabetes cases** with:
 - 📊 **Cases by age group** (0-30, 30-50, 50-70, 70+)
@@ -41,6 +41,18 @@ Interactive dashboard analyzing **diabetes cases** with:
 - 🔍 **Key insight**: 0-30 age group has the highest number of cases (701) and highest total cost ($26.9M)
 
 **Tools:** Power BI, DAX Measures, Data Modeling
+
+---
+
+### 📊 [Power BI Dashboard – Staff & Telehealth Analytics](https://github.com/miriamgp1000-prog/PowerBI-Staff-Dashboard)
+
+Operational analysis for a healthcare organization:
+- 👥 **Staff turnover rate** by department (Pediatrics 33.3%, Cardiology 25%, Emergency 20%)
+- 📞 **Telehealth session duration** trends over time
+- ⭐ **Patient satisfaction** by session type
+- 🔍 **Key insight**: Pediatrics has the highest turnover but also the highest satisfaction — a potential signal of workload pressure despite good patient outcomes
+
+**Tools:** Power BI, DAX, Google BigQuery
 
 ---
 
