@@ -26,6 +26,16 @@ Multilingual Registered Nurse (Spanish, English, Norwegian) transitioning into *
 
 ## 📊 FEATURED PROJECTS
 
+### 📊 [Power BI Dashboard – Staff & Telehealth Analytics](https://github.com/miriamgp1000-prog/PowerBI-Staff-Dashboard)
+
+Operational analysis for a healthcare organization (2024):
+- 👥 **Staff turnover rate** by department (Pediatrics 33.3%, Cardiology 25%, Emergency 20%)
+- 📞 **Telehealth session duration** trends over time
+- ⭐ **Patient satisfaction** by session type
+- 🔍 **Key insight**: Pediatrics has the highest turnover but also the highest satisfaction — a potential signal of workload pressure despite good patient outcomes
+
+**Tools:** Power BI, DAX, Google BigQuery
+
 ### 📊 [Power BI Healthcare Dashboard](https://github.com/miriam-gp/powerbi-healthcare-dashboard)
 - Analyzed **diabetes cases** across age groups (0-30, 30-50, 50-70, 70+)
 - Created DAX measures for total cost ($83.5M) and average cost per case ($38K)
