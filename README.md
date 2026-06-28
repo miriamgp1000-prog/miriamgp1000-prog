@@ -63,10 +63,9 @@ Operational analysis for a healthcare organization:
 | **Spreadsheets** | Google Sheets / Excel | 🟡 Intermediate |
 | **Databases** | SQL (BigQuery, PostgreSQL) | 🟡 Intermediate |
 | **Data Visualization** | Power BI | 🟡 Intermediate |
+| **Python** | Python (in progress) | 🟢 Beginner |
 | **Version Control** | Git / GitHub | 🟢 Competent |
 | **Documentation** | Markdown | 🟢 Competent |
-
-**Next:** Python
 
 ---
 
@@ -84,6 +83,7 @@ I believe in building on **solid foundations**. Before diving deep into tools, I
   - **Prescriptive**: How to optimize?
 
 ### 📖 Resources I've Used
+- **Python:** FreeCodeCamp, Google Colab
 - **SQL Practice:** [SQLBolt](https://sqlbolt.com/)
 - **Excel:** Intermediate course by [El Tío Tech](https://www.youtube.com/@ElTioTech)
 - **Git/GitHub:** [hello-git-mouredev](https://github.com/braismoure/hello-git-mouredev)
